@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsl(15, 100%, 80%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#sec {
+    color: hsl(246, 100%, 50%);
+    font-size: 36px;
+}
+
+#frth {
+    background-color: hsl(120, 60%, 60%);
+    font-size: 24px;
+    font-weight: bold;
+}
